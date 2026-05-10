@@ -6,7 +6,7 @@ Thư mục này dùng để nộp minh chứng thiết lập môi trường lab.
 
 - Họ tên: Nguyễn Thế Hạnh
 - Mã sinh viên: 1771020247
-- Nhóm:5
+- Nhóm: 5
 - Vai trò dự kiến trong nhóm: 
 - Hệ điều hành: Window
 - Ghi chú:
