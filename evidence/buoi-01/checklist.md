@@ -14,21 +14,21 @@
 
 ## Docker
 
-- [ ] `docker run --rm hello-world` chạy thành công.
-- [ ] Đã chạy `scripts/pull_all` để pull image chuẩn.
-- [ ] Đã chạy `scripts/smoke_test`.
+- [x] `docker run --rm hello-world` chạy thành công.
+- [x] Đã chạy `scripts/pull_all` để pull image chuẩn.
+- [x] Đã chạy `scripts/smoke_test`.
 - [ ] Mini-stack Docker Compose chạy được.
 
 ## GitHub
 
-- [ ] Đã clone repo lớp.
-- [ ] Đã tạo branch Buổi 1.
-- [ ] Đã commit minh chứng Buổi 1.
-- [ ] Đã push lên GitHub.
+- [x] Đã clone repo lớp.
+- [x] Đã tạo branch Buổi 1.
+- [x] Đã commit minh chứng Buổi 1.
+- [x] Đã push lên GitHub.
 
 ## OBE Evidence
 
-- [ ] `evidence/buoi-01/tool-versions.txt` có nội dung.
-- [ ] `evidence/buoi-01/hello-world.txt` có nội dung.
-- [ ] `evidence/buoi-01/smoke-test-result.txt` có nội dung.
+- [x] `evidence/buoi-01/tool-versions.txt` có nội dung.
+- [x] `evidence/buoi-01/hello-world.txt` có nội dung.
+- [x] `evidence/buoi-01/smoke-test-result.txt` có nội dung.
 - [ ] Nếu còn lỗi, đã ghi vào `known-issues.md`.
